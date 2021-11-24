@@ -1,5 +1,5 @@
 ### Hello!
-My name is Natalie McIntyre and I am a front-end software developer who loves to learn, create, and solve problems! I am continually learning new technologies and currently finishing up my last module studying front-end engineering at [Turing School of Software and Design](https://turing.edu/).
+My name is Natalie McIntyre and I am a front-end software developer who loves to learn, create, and solve problems! I am continually learning new technologies and recently finished my last module studying front-end engineering at [Turing School of Software and Design](https://turing.edu/).
 
 <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
@@ -15,7 +15,7 @@ My name is Natalie McIntyre and I am a front-end software developer who loves to
  <br>
 
  - 🎓 Former Higher Education Professional turned Front-End Software Engineer
- - 🧑‍💻 Front-End Software Engineering Certification (anticipated completion: **November 2021**)
+ - 🧑‍💻 Front-End Software Engineering Certification (completed: **November 2021**)
  - 🌵 If I'm not coding, catch me hiking or running the trails in my hometown of Phoenix, Arizona
 
  <br>
