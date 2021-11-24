@@ -27,7 +27,14 @@ My name is Natalie McIntyre and I am a front-end software developer who loves to
  - 📧 [Email](nataliemcintyre19@gmail.com)
 
 
-#### Check out some of my projects below!
+#### Check out some of my solo and group projects below!
+
+## [EnneaLink](https://github.com/EnneaLink/ennealink-fe)
+#### A Social Media, Personality Type app built with React, React Router, GraphQL
+##### Full-stack project designed and built with team of 5. Multi-page personality, social application where users can log-in, store personality profiles, and follow friends. Built with front-end team using React, React Router, uses React Hooks. Learned and implemented GraphQL (Apollo Client) within 2 week stretch. End to end testing with Cypress, utilizes CircleCI. Deployed on Heroku. Back-end built with Ruby on Rails, RSpec.
+
+!<img alt="User Sign In gif" src="https://user-images.githubusercontent.com/81891209/139144699-fcbef0db-3d1c-4f56-9bc4-467befbd8f74.gif"> !
+<img alt="Existing User Actions gif" src="https://user-images.githubusercontent.com/81891209/139144196-d4a627a2-2585-456f-9e66-3106554ffe1b.gif">
 
 ## [Career Explore: Government Jobs](https://github.com/nataliemcintyre2021/Career-Explore)
 #### A Career Exploratory app built with React
