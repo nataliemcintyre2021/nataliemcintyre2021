@@ -1,5 +1,5 @@
 ### Hello!
-My name is Natalie McIntyre and I am a front-end software developer who loves to learn, create, and solve problems! I am continually learning new technologies and recently finished my last module studying front-end engineering at [Turing School of Software and Design](https://turing.edu/).
+My name is Natalie McIntyre and I am a software developer who loves to learn, create, and solve problems.
 
 <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
@@ -14,55 +14,10 @@ My name is Natalie McIntyre and I am a front-end software developer who loves to
  </div>  
  <br>
 
- - 🎓 Former Higher Education Professional turned Front-End Software Engineer
+ - 🎓 Former Educator turned Software Engineer
  - 🧑‍💻 Front-End Software Engineering Certification (completed: **November 2021**)
- - 🌵 If I'm not coding, catch me hiking or running the trails in my hometown of Phoenix, Arizona
+ - 🏔 If I'm not coding, catch me hiking or running the trails in beautiful Colorado Springs
 
  <br>
- 
-[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliemcintyre2021)](https://github.com/nataliemcintyre2021/github-readme-stats)
-
- - 💬 [LinkedIn](https://www.linkedin.com/in/nataliemcintyre1/)
- - 💼 [Portfolio](https://terminal.turing.edu/alumni/1034-natalie-mcintyre)
- - 📧 [Email](nataliemcintyre19@gmail.com)
 
 
-#### Check out some of my solo and group projects below!
-
-## [EnneaLink](https://github.com/EnneaLink/ennealink-fe)
-#### A Social Media, Personality Type app built with React, React Router, GraphQL
-##### Full-stack project designed and built with team of 5. Multi-page personality, social application where users can log-in, store personality profiles, and follow friends. Built with front-end team using React, React Router, uses React Hooks. Learned and implemented GraphQL (Apollo Client) within 2 week stretch. End to end testing with Cypress, utilizes CircleCI. Deployed on Heroku. Back-end built with Ruby on Rails, RSpec.
-
-!<img alt="User Sign In gif" src="https://user-images.githubusercontent.com/81891209/139144699-fcbef0db-3d1c-4f56-9bc4-467befbd8f74.gif"> !
-<img alt="Existing User Actions gif" src="https://user-images.githubusercontent.com/81891209/139144196-d4a627a2-2585-456f-9e66-3106554ffe1b.gif">
-
-## [Career Explore: Government Jobs](https://github.com/nataliemcintyre2021/Career-Explore)
-#### A Career Exploratory app built with React
-
-<img width="1435" alt="Career Explore gif" src="https://user-images.githubusercontent.com/78229679/135511274-0bbee63e-1f0d-4936-9da4-2b4032b4acfe.gif">
-
-
-## [hi-lo weather](https://github.com/darlaevans2000/hi-lo)
-#### A weather app built with React, TypeScript
-##### Created multi-page weather application with team of 3, self-taught TypeScript and utilized OpenWeather API. Users can search by city with Google Maps Places Autocomplete, and select detailed view. Selections persist with local storage and can be deleted by city.
-
-<img width="1435" alt="Hi-Lo weather gif" src="https://user-images.githubusercontent.com/78229679/136866541-1977b325-55de-4faf-9e52-38d1388a1309.gif">
-
-## [Rancid Tomatillos](https://github.com/nataliemcintyre2021/rancid-tomatillos)
-#### A movie rating app built with React
-
-<img width="1435" alt="Rancid Tomatillos gif" src="https://user-images.githubusercontent.com/78229679/136867172-9d6ebd02-6815-42ae-874b-d4a7146b1d7c.gif">
-<!--
-**nataliemcintyre2021/nataliemcintyre2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
