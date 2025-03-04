@@ -17,6 +17,7 @@ My name is Natalie McIntyre and I am a software developer who loves to learn, cr
 
  - 🎓 Former Educator turned Software Engineer
  - 🧑‍💻 Front-End Software Engineering Certification (completed: **November 2021**)
+ - Newest language: working in Java!
  - 🏔 If I'm not coding, catch me hiking or running the trails in beautiful Colorado Springs
 
  <br>
